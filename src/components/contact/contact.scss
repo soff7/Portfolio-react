@@ -68,8 +68,8 @@
       textarea {
         padding: 20px;
         background-color: transparent;
-        border: 1px solid white;
-        color: white;
+        border: 1px solid lightgray;
+        color: lightgray;
         border-radius: 5px;
 
         @include mobile {

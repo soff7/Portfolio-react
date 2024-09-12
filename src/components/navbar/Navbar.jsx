@@ -17,10 +17,10 @@ const Navbar = () => {
                 Sofien Project 
                 </motion.span>
                 <div className="social">
-                    <a href="#"><img src="/facebook.png" alt="Facebook" /></a>
-                    <a href="#"><img src="/instagram.png" alt="Instagram" /></a>
-                    <a href="#"><img src="/youtube.png" alt="YouTube" /></a>
-                    <a href="#"><img src="/dribbble.png" alt="Dribbble" /></a>
+                    <a href="https://www.facebook.com/sofian.ladhari"><img src="/facebook.png" alt="Facebook" /></a>
+                    <a href="https://www.instagram.com/sofien_ldh/"><img src="/instagram.png" alt="Instagram" /></a>
+                    <a href="https://www.ladharisofien0@gmail.com"><img src="Gmail.png" alt="Gmail" /></a>
+                    <a href="https://github.com/soff7"><img src="/github.jpeg" alt="Github" /></a>
                 </div>
             </div>
         </div>
